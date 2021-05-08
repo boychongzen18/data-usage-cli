@@ -1,0 +1,16 @@
+
+
+ ==== Data Status Pemakaian Harian ====
+
+Stb Openwrt Akses
+
+ssh root@192.168.1.1
+
+opkg update
+opkg install vnstat
+
+vnstat -d
+
+
+ ==== Creator Boychongzen aka Xroot ====
+
