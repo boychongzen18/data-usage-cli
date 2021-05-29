@@ -11,8 +11,10 @@ opkg install vnstat
 
 echo " ################################### "
 
-echo " Jangan Lupa Reboot STB Openwrt "
+echo "   Jangan Lupa Reboot STB Openwrt "
 
-echo "         Happy Preaking     "
+echo " ################################### "
+
+echo "  Creator By Boychongzen aka Xroot  "
 
 echo " ################################### "
