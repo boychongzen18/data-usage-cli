@@ -6,8 +6,7 @@
 
 ssh root@192.168.1.1
 
-opkg update
-opkg install vnstat
+bash vnstat.sh
 
 2. Reboot STB Openwrt
 
