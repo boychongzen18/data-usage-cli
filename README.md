@@ -1,9 +1,9 @@
-# Meter CLI STB Openwrt Fw 18.06
+# STB Openwrt Fw 18.06
 
 # Status System STB Openwrt
 ![be](https://raw.githubusercontent.com/boychongzen18/status-meter-cli/main/stb~2.jpg)
 
-# Terminal Termux Akses Meter CLI
+# Terminal Termux Data Pemakaian Harian
 ![be](https://raw.githubusercontent.com/boychongzen18/status-meter-cli/main/meter.jpg)
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
