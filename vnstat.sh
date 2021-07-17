@@ -6,8 +6,7 @@ echo "      Update & Installer Packet    "
 
 echo " ################################### "
 
-opkg update
-opkg install vnstat
+opkg update && opkg install vnstat
 
 echo " ################################### "
 
