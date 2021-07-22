@@ -14,6 +14,10 @@ ssh root@192.168.1.1
 
 vnstat -d
 
+2. Speedtest
+
+wget -O /usr/bin/speedtest https://github.com/r3yr3/fix_Speedtest/raw/main/speedtest && chmod +x /usr/bin/speedtest
+
 
  ==== Creator Boychongzen aka Xroot ====
 
